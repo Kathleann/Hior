@@ -1,0 +1,64 @@
+body {
+    background-color: palevioletred;
+}
+
+h1 {
+    color: wheat;
+    font-family: monospace;
+}
+
+p {
+    font-family: cursive;
+    text-align: center;
+}
+
+nav ul li {
+    display: inline;
+    padding: 10px 100px;
+}
+
+nav ul li a {
+    text-decoration: none;
+    list-style-type: none;
+    color: rgb(87, 0, 26);
+    font-size: 20px;
+}
+
+nav {
+    text-align: center;
+    margin-top: 35px;
+}
+
+.out {
+    text-align: center;
+    background-color: rgb(228, 2, 78);
+    padding: 20px;
+    margin: 0;
+}
+
+.one {
+    border: solid 5px rgb(186, 0, 31);
+    padding: 10px;
+    border-radius: 10px;
+}
+
+.two {
+    border: solid 5px rgb(214, 7, 42);
+    padding: 10px;
+    border-radius: 10px;
+}
+
+.four {
+    border: solid 5px rgb(214, 7, 42);
+    padding: 10px;
+    text-align: center;
+    border-radius: 10px;
+}
+
+.gen {
+    text-align: center;
+}
+
+.red {
+    text-align: right;
+}
